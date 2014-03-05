@@ -1,12 +1,8 @@
-# Welcome to News Reader Demo
+News Feed
+#################
 
-* bundle install
-* rake db:migrate
-* rake db:seed
+By Andre Kuney and Doug Teixeira
 
-Three feeds with their entries will be created upon running `rake
-db:seed`.
 
-Good luck. Have fun.
 
 
