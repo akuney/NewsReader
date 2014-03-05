@@ -1,7 +1,7 @@
 ##News Reader
 #################
 
-By Andre Kuney and Doug Teixeira
+By Andre Kuney and Doug Teixeira (with some of the feed infrastructure by Ryan Sepassi).
 
 A simple feed app using Backbone (models, collections, views, templates, routers), with a basic Rails app to kick it off. As such, most of the action is in app/assets/javascripts. The feeds themselves are collected using the Ruby Feed class.
 
